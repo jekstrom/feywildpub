@@ -23,7 +23,7 @@ A firearm can be crafted by spending time with a shop and using Tinker's Tools.
 
 **Masterwork** When crafting an item, make a Tinker's Tools check after completing the time required to craft it. On a success, the item is *masterwork* quality. A *masterwork* firearm reduces the Misfire chance by 1.
 
-**Time** Time required is based on 1 week per 50gp cost of the firearm. A day's crafting can be done as part of a long rest. This can be reduced by multiple people (proficient in Tinker's Tools) working on the item simultaneously. Time can also be reduced by finding ready-made components such as springs, tubes, and bearings at the DM's discretion.
+**Time** Time required is based on 1 week per 50gp cost of the firearm. A day's crafting can be done as part of a long rest. This can be reduced by multiple people (proficient in Tinker's Tools) working on the item simultaneously. At the DM's discretion, time can also be reduced by finding ready-made components such as springs, tubes, and bearings. Another way to reduce time is to have a nice shop to work in.
 
 **Ammo** When crafting ammo, you craft batches at a time based on the ammo type. Each firearm requires different types of ammo, except the Pistol and the Pepperbox which share ammo types. When you craft ammo, subtract half the market value of the ammo crafted from the total GP worth of raw materials you are carrying. For example, if you are crafting Pistol ammo at 4gp per batch, you subtract 2gp work of black powder, brass, and lead from your supplies.
 
