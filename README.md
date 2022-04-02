@@ -10,11 +10,11 @@ Rules from Gunslinger class from Matt Mercer:
 
 | Name | Cost | Ammo | Damage | Weight | Range | Properties |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Palm Pistol | 50g | 2gp (20) | 1d8 piercing | 1 lbs | (40/160) | Light, Reload 1, Misfire 2 |
-| Pistol | 150g | 4gp (20) | 1d10 piercing | 3 lbs | (60/240) | Reload 4, Misfire 2 |
-| Musket | 300g | 5gp (20) | 1d12 piercing | 10 lbs | (120/480) | Two-handed, Reload 1, Misfire 3 |
-| Pepperbox | 250g | 4gp (20) | 1d10 piercing | 5 lbs | (80/320) | Reload 6, Misfire 3 |
-| Blunderbuss | 300g | 5gp (5) | 2d8 piercing | 10 lbs | (15/60) | Two-handed, Reload 1, Misfire 3 |
+| Palm Pistol | 50g | 2gp (5) | 1d8 piercing | 1 lbs | (40/160) | Light, Reload 1, Misfire 2 |
+| Pistol | 150g | 4gp (5) | 1d10 piercing | 3 lbs | (60/240) | Reload 4, Misfire 2 |
+| Musket | 300g | 5gp (5) | 1d12 piercing | 10 lbs | (120/480) | Two-handed, Reload 1, Misfire 3 |
+| Pepperbox | 250g | 4gp (5) | 1d10 piercing | 5 lbs | (80/320) | Reload 6, Misfire 3 |
+| Blunderbuss | 300g | 5gp (1) | 2d8 piercing | 10 lbs | (15/60) | Two-handed, Reload 1, Misfire 3 |
 
 
 ## Crafting
